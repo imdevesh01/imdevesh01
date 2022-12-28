@@ -6,13 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdevesh01&label=Profile%20views&color=0e75b6&style=flat" alt="imdevesh01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imdevesh01" target="blank"><img src="https://img.shields.io/twitter/follow/imdevesh01?logo=twitter&style=for-the-badge" alt="imdevesh01" /></a> </p>
-- 🌱 I’m currently learning **App Development**
 
-- 💬 Ask me about **Web Development & Competitive Programming**
+🌱 I’m currently learning **App Development**
 
-- 📫 How to reach me **connect.to.devesh@gmail.com**
+💬 Ask me about **Web Development & Competitive Programming**
 
-- ⚡ Fun fact **I think I am funny :)**
+📫 How to reach me **connect.to.devesh@gmail.com**
+
+⚡ Fun fact **I think I am funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
