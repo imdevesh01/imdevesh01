@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imdevesh01" target="blank"><img src="https://img.shields.io/twitter/follow/imdevesh01?logo=twitter&style=for-the-badge" alt="imdevesh01" /></a> </p>
 
-🌱 I’m currently learning **App Development**
+🌱 I’m currently learning **UI-UX Development**
 
 💬 Ask me about **Web Development & Competitive Programming**
 
